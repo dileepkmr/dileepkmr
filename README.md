@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dileepkmr
+- 👋 Hi, I’m @dileepkmar
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Java Full Stock Development.
 
